@@ -2,7 +2,7 @@
 This is the code for the homework that I helped Wang Yiheng（王一赫） complete for a fee. However, after completion, I was insulted and refused payment by the other party. I am sharing the code here because I hope that Mr. Wang Yiheng can become an honest person in the future.
 
 
-#Java Coursework (20 marks)
+# Java Coursework (20 marks)
 Student score management program design
 In the following time you will be required to write an educational 
 management system in JAVA to your individual ability. This task will count for 
